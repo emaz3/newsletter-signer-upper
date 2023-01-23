@@ -1,2 +1,1 @@
-# newsletter-signer-upper
-signs given email up for news newletters with python and selenium
+if u dont have them already download python, do pip install time, then pip install selenium then run the py file
